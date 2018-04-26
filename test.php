@@ -7,8 +7,6 @@
  */
 echo "test";
 
-echo "test2";
-
 $time = date('H:i');
 
 if ($time == "17:00") {

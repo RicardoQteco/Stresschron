@@ -10,5 +10,5 @@ echo "test";
 $time = date('H:i');
 
 if ($time == "17:00") {
-	echo "tijd om naar huis te gaan";
+	echo "tijd om naar huis te gaan.";
 }
